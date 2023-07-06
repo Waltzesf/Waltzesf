@@ -4,6 +4,7 @@
 
 - 💞️ I’m looking to collaborate on any exciting projects!
 - 📫 How to reach me through email.
+- I'd love to continue my education in one of the UCs!
 
 <!---
 Waltzesf/Waltzesf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
